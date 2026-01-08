@@ -5,12 +5,19 @@
 
 ## Important Features:
 - Implemented Login/Logout - Signup Interface
+  
 - Implemented Role-based authorization (RBAC) and Role-based authentication
+  
 - 3 types of roles provided: User, Seller, Admin
+  
 - Implemented Search Products Feature
+  
 - Implemented Category Filter, Clear Filter and Sort By Price Feature
+  
 - Implemented Industry Standards Cart Page, Order Summary Page, Address & Payment Method Page
+  
 - Integrated Complete Stripe Payment Method (Test Mode)
+  
 - Used Stripe Secret Key and Stripe Publishable Key
 
 ***
